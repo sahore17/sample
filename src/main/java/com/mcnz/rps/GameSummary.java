@@ -10,7 +10,7 @@ public class GameSummary {
 	public String getClientGesture() {
 		return clientGesture;
 	}
-	#Commit
+	
 
 	public String getServerGesture() {
 		return serverGesture;
