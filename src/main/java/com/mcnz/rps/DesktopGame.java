@@ -3,6 +3,7 @@ package com.mcnz.rps;
 import javax.swing.JOptionPane;
 
 public class DesktopGame {
+
 	public enum Gesture {rock,paper,scissors};
 
 	public static void main(String[] args) {
